@@ -47,9 +47,9 @@ A curated directory of **Enterprise Video Platforms (EVP)**, **Video Content Man
 
 *Production-grade open-source video CMS, streaming servers, and self-hosted media infrastructure.*
 
-*Sorted by GitHub Star Count (descending).*
+*Sorted by GitHub Stars_Count (descending).*
 
-| Repository 📦 | Description & Key Features ⚡ | Star Count ⭐ |
+| Repository 📦 | Description & Key Features ⚡ | Stars_Count ⭐ |
 |:---|:---|:---|
 | **[Jellyfin](https://github.com/jellyfin/jellyfin)** | Free software media system that puts you in control of managing and streaming your media. Modern self-hosted alternative to proprietary video platforms. **GPL-3.0**. | [![Stars](https://img.shields.io/github/stars/jellyfin/jellyfin?style=social&color=white)](https://github.com/jellyfin/jellyfin/stargazers) |
 | **[MediaMTX](https://github.com/bluenviron/mediamtx)** | Ready-to-use and zero-dependency real-time media server and media proxy that supports RTSP, RTMP, HLS, WebRTC, and WebSockets. Written in **Go**. **MIT License**. | [![Stars](https://img.shields.io/github/stars/bluenviron/mediamtx?style=social&color=white)](https://github.com/bluenviron/mediamtx/stargazers) |
@@ -64,7 +64,7 @@ A curated directory of **Enterprise Video Platforms (EVP)**, **Video Content Man
 
 ### 🛠️ Additional Open-Source Libraries & Media Tools
 
-| Library / Tool 🧰 | Description 📝 | Star Count ⭐ |
+| Library / Tool 🧰 | Description 📝 | Stars_Count ⭐ |
 |:---|:---|:---|
 | **[Video.js](https://github.com/videojs/video.js)** | World's most popular open-source HTML5 web video player framework. Supports HLS, DASH, plugins, and custom themes. | [![Stars](https://img.shields.io/github/stars/videojs/video.js?style=social&color=white)](https://github.com/videojs/video.js/stargazers) |
 | **[hls.js](https://github.com/video-dev/hls.js)** | JavaScript HLS client library relying on HTML5 video and MediaSource Extensions for MSE-enabled web browsers. | [![Stars](https://img.shields.io/github/stars/video-dev/hls.js?style=social&color=white)](https://github.com/video-dev/hls.js/stargazers) |
@@ -80,7 +80,7 @@ Contributions are welcome! Please follow these simple guidelines:
 
 1. Fork the repository 🍴.
 2. Add your product or open-source tool to `README.md` maintaining alphabetical or star-based ordering.
-3. Ensure accurate pricing, free tier specs, or star badges are included.
+3. Ensure accurate pricing, free tier specs, or Stars_Badges are included.
 4. Open a Pull Request with a short description of the added platform 🚀.
 
 ---
