@@ -47,7 +47,7 @@ A curated directory of **Enterprise Video Platforms (EVP)**, **Video Content Man
 
 *Production-grade open-source video CMS, streaming servers, and self-hosted media infrastructure.*
 
-*Sorted by GitHub Stars_Count (descending).*
+*Sorted by GitHub_Stars_Count (descending).*
 
 | Repository 📦 | Description & Key Features ⚡ | Stars_Count ⭐ |
 |:---|:---|:---|
